@@ -29,7 +29,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>17</java.version>
 
-		<reactor-bom.version>2020.0.16</reactor-bom.version>
+		<reactor-bom.version>2024.0.1</reactor-bom.version>
 	</properties>
 
 	<dependencyManagement>
